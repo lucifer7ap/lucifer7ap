@@ -2,7 +2,7 @@
 - 👀 I’m interested in java, python ,html and css
 - 🌱 I’m currently learning html
 - 💞️ I’m looking to collaborate on something
-- 📫 How to reach me ...
+- 📫 How to reach me lucifer7ap@gmail.com
 
 <!---
 lucifer7ap/lucifer7ap is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
